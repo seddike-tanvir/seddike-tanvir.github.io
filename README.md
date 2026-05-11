@@ -9,6 +9,7 @@ As a tech enthusiast and continuous learner, I always explore new ideas, tools, 
 
 ### 📫 Connect With Me
 - GitHub: https://github.com/seddike-tanvir
-- Portfolio: tanvirseddike.pro.bd
+- Portfolio: https://tanvirseddike.pro.bd | https://seddike-tanvir.github.io
 - Phone: +8809606 769 726
 - Email: sayseddike@gmail.com
+- Contact Details: https://tanvirseddike.pro.bd/contactOnly
